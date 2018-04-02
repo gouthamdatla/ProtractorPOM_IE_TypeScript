@@ -1,0 +1,17 @@
+{
+    "CustomerData1": {
+        "firstname": "Abhishek",
+        "lastname": "karan",
+        "Code": "500010",
+        "currency": "Rupee"
+    },
+
+    "CustomerData":{
+        "name": "Harry Potter",
+        "DAmt": "9000",
+        "Msg":"Deposit Successful",
+        "WAmt": "4000",
+        "Msg1":"Transaction successful",
+        "Title":"XYZ Bank"
+    }
+}
